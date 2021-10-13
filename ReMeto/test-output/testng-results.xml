@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-08T11:09:21 IST" name="Default suite" finished-at="2021-10-08T11:09:50 IST" duration-ms="29164">
+    <groups>
+    </groups>
+    <test started-at="2021-10-08T11:09:21 IST" name="Default test" finished-at="2021-10-08T11:09:50 IST" duration-ms="29164">
+      <class name="PracticeTC.TC_30withAssert">
+        <test-method is-config="true" signature="connectDB()[pri:0, instance:PracticeTC.TC_30withAssert@428640fa]" started-at="2021-10-08T11:09:21 IST" name="connectDB" finished-at="2021-10-08T11:09:21 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectDB -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:PracticeTC.TC_30withAssert@428640fa]" started-at="2021-10-08T11:09:21 IST" name="launchBrowser" finished-at="2021-10-08T11:09:24 IST" duration-ms="2971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:PracticeTC.TC_30withAssert@428640fa]" started-at="2021-10-08T11:09:24 IST" name="loginToApp" finished-at="2021-10-08T11:09:26 IST" duration-ms="2512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method signature="tC_30()[pri:0, instance:PracticeTC.TC_30withAssert@428640fa]" started-at="2021-10-08T11:09:26 IST" name="tC_30" finished-at="2021-10-08T11:09:49 IST" duration-ms="22523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_30 -->
+        <test-method is-config="true" signature="logoutofApp()[pri:0, instance:PracticeTC.TC_30withAssert@428640fa]" started-at="2021-10-08T11:09:49 IST" name="logoutofApp" finished-at="2021-10-08T11:09:50 IST" duration-ms="1065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutofApp -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:PracticeTC.TC_30withAssert@428640fa]" started-at="2021-10-08T11:09:50 IST" name="CloseBrowser" finished-at="2021-10-08T11:09:50 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="closeDB()[pri:0, instance:PracticeTC.TC_30withAssert@428640fa]" started-at="2021-10-08T11:09:50 IST" name="closeDB" finished-at="2021-10-08T11:09:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDB -->
+      </class> <!-- PracticeTC.TC_30withAssert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
